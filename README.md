@@ -18,7 +18,7 @@ Outlet_Type : Whether the outlet is just a grocery store or some sort of superma
 Item_Outlet_Sales : Sales of the product in the particular store.
 ```
 ## :chart: _Analysis_ 
-:arrow_forward:Q. Does the outlet type (grocery store or supermarket) have any impact on the overall sales?
+:arrow_forward:Q. Does the outlet type (grocery store or supermarket) have any impact on the overall sales?<br />
 :green_circle:SupermarketType 1 has Performed Max. Sales of About 1.29Cr. from 1987 to 2007 where grocery store has done sales about 3.68L and was active from 1985 to 1998 
 
 :arrow_forward:Q. Which type of city has the most overall sales? Or which outlet location makes the most overall sales?
