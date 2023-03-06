@@ -37,12 +37,6 @@ Least Selling Product is Seafood(1.48L) With Avg.MRP as 142
 :arrow_forward:Q. Highest Sales Performed by which store and in which year?<br />
 :green_circle:In 2004, Highest Sales Performed by Supermarket Type1 store(1.33L) and location of the outlet was in tier 2 city.
 
-:arrow_forward:Q. What are some products that sell better in Tier 1 cities as compared to Tier 2 and Tier 3 cities?<br />
-
-
-:arrow_forward:Q. Are there any products selling better in Tier 2 and 3 cities as compared to Tier 1 cities?<br />
-
-
-:arrow_forward:Q. Which category of products sells the most and the least?<br />
-
-:arrow_forward:Q. Do the product visibility and weight have any impact on the sales of the product?<br />
+:arrow_forward:Q. Do the product visibility have any impact on the sales of the product?<br />
+:green_circle: As per record, Fruits and Vegetable has Higher Product visibility hence the sales is also HIGH <br />
+Therefore, Product visibility is directly proportional to the sales in store
