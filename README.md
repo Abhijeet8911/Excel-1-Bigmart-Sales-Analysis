@@ -28,7 +28,7 @@ Item_Outlet_Sales : Sales of the product in the particular store.
 :green_circle:59.71% sales comes from Medium Outlet Size.
 
 :arrow_forward:Q. What is the average MRP of the product that sells the most and the least? Which category do these products fall under?<br />
-:green_circle:Most Selling Product is Fruits and Vegetables(28.20L) with Avg.MRP as 145
+:green_circle:Most Selling Product is Fruits and Vegetables(28.20L) with Avg.MRP as 145 <br />
 Least Selling Product is Seafood(1.48L) With Avg.MRP as 142
 
 :arrow_forward:Q. Which Food content Highest fat content?<br />
