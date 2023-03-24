@@ -3,6 +3,8 @@
 
 BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. 
 Also, certain attributes of each product and store have been defined. 
+![Dashboard](https://user-images.githubusercontent.com/88017168/227609371-d771a83b-963f-4994-9be9-871168250046.png)
+
 ```
 Item_Identifier : Unique product ID
 Item_Weight : Weight of product
